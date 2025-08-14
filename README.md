@@ -42,4 +42,5 @@ Using CASE statements and window functions to categorize sales performance and r
 •Technologies Used
 
 Microsoft SQL Server: The primary database used for all data storage and query execution.
+
 SQL: The language used for all exploratory queries and analysis.
