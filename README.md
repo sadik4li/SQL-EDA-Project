@@ -4,12 +4,14 @@ This project demonstrates an end-to-end exploratory data analysis (EDA) process 
 
 The dataset used for this project consists of three tables: gold.fact_sales, gold.dim_products, and gold.dim_customers. By joining these tables, I was able to perform a comprehensive analysis across various dimensions.
 
-Project Sections
+•Project Sections
+
 Database Exploration
 This section involved an initial exploration of the database schema and data types. I used SELECT TOP queries to get a quick look at the data structure and performed checks for null values and data integrity to ensure the tables were ready for analysis.
 
 Dimension Exploration
-I delved into the dimensional tables, gold.dim_customers and gold.dim_products, to understand the characteristics of our customers and products. This included:
+I delved into the dimensional tables, gold.dim_customers and gold.dim_products, to understand the characteristics of our customers and products. 
+This included:
 
 Analyzing customer demographics such as country, marital status, and gender.
 
@@ -42,7 +44,8 @@ Ranking products by sales amount to identify best-selling products.
 
 Using CASE statements and window functions to categorize sales performance and rank items within different groups.
 
-Technologies Used
+•Technologies Used
+
 Microsoft SQL Server: The primary database used for all data storage and query execution.
 
-T-SQL: The language used for all exploratory queries and analysis.
+SQL: The language used for all exploratory queries and analysis.
