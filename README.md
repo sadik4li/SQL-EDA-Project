@@ -1,1 +1,1 @@
-# 📊 SQL Exploratory Data Analysis (EDA) Project
+# 📊 SQL Exploratory Data Analysis (EDA) Project on Sales Data
