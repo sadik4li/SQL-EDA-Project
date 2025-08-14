@@ -1,1 +1,1 @@
-# SQL-EDA-Project
+# 📊 SQL Exploratory Data Analysis (EDA) Project
